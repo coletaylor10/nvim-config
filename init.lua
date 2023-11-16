@@ -1,0 +1,2 @@
+require("coleconfig")
+print("hello")
